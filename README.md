@@ -13,6 +13,11 @@
 
 ---
 
+### 🌈 My Banner
+![Banner](https://your-banner-url-here.com) <!-- Replace this URL with your banner's image URL -->
+
+---
+
 ### 🚀 What I Do
 - **Game Development:** Building interactive and engaging game worlds with Unity.
 - **Programming:** Expert in C#, with additional experience in Python and JavaScript.
@@ -20,10 +25,12 @@
 
 ---
 
-### 📫 How to Reach Me
-- 🖇️ [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourprofile)  
-- 📧 Email: your.email@example.com
+### 📫 Connect with Me
+- 🖇️ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+- 🐦 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername) <!-- This will show the number of followers -->
+- 🎮 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourID) <!-- Add dynamic presence -->
+- 📺 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/yourChannelID) <!-- Displays subscriber count -->
+- 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
@@ -45,4 +52,4 @@
 
 ---
 
-Feel free to adapt the sections, links, and stats to make it your own. Let me know if you'd like me to tweak any part of this! 🚀
+💡 *Feel free to replace the placeholders with your actual data and let me know if you need more customization!*
